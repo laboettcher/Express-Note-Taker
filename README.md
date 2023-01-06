@@ -80,6 +80,8 @@ You can access the app here: [NoteTaker](https://note-taker-express-challenge.he
 
 * [HerokuDevCenter](https://devcenter.heroku.com/articles/git)
 
+* [NodeJS](https://nodejs.org/dist/latest-v8.x/docs/api/process.html#process_process_env)
+
 * [Npm](https://www.npmjs.com/package/qs)
 
 * [NpmDocs](https://docs.npmjs.com/cli/v7/commands/npm-start)
