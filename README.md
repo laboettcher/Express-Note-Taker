@@ -72,16 +72,16 @@ Click the "Get Started" button and start writing and saving notes!
 
 ## References
 
-* [GeeksforGeeks](#https://www.geeksforgeeks.org/express-js-express-urlencoded-function/)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/express-js-express-urlencoded-function/)
 
-* [GeeksforGeeks2](#https://www.geeksforgeeks.org/express-js-express-static-function/)
+* [GeeksforGeeks2](https://www.geeksforgeeks.org/express-js-express-static-function/)
 
-* [Npm](#https://www.npmjs.com/package/qs)
+* [Npm](https://www.npmjs.com/package/qs)
 
-* [NpmDocs](#https://docs.npmjs.com/cli/v7/commands/npm-start)
+* [NpmDocs](https://docs.npmjs.com/cli/v7/commands/npm-start)
 
-* [TutorialsPoint](#https://www.tutorialspoint.com/express-js-express-urlencoded-method#)
+* [TutorialsPoint](https://www.tutorialspoint.com/express-js-express-urlencoded-method#)
 
-* [StackOverflow](#https://stackoverflow.com/questions/29960764/what-does-extended-mean-in-express-4-0#:~:text=The%20extended%20option%20allows%20to,like%20experience%20with%20URL%2Dencoded.)
+* [StackOverflow](https://stackoverflow.com/questions/29960764/what-does-extended-mean-in-express-4-0#:~:text=The%20extended%20option%20allows%20to,like%20experience%20with%20URL%2Dencoded.)
 
-* [StackOverflow2](#https://stackoverflow.com/questions/29136374/what-the-difference-between-qs-and-querystring)
+* [StackOverflow2](https://stackoverflow.com/questions/29136374/what-the-difference-between-qs-and-querystring)
