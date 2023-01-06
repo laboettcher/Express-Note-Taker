@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Express.js Note Taker
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
