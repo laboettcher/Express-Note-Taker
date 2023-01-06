@@ -63,6 +63,7 @@ Click the "Get Started" button and start writing and saving notes!
 
 ## Mock-Up
 
+![Note Taker](https://user-images.githubusercontent.com/114205917/210916410-4684240a-603d-4ae2-9e4c-73184c289ad4.gif)
 
 ## Deployed Application
 
