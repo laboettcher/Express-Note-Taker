@@ -59,7 +59,7 @@ npm install and npm install express
 
 ## Usage
 
-After installation, click the "Get Started" button and start writing and saving notes! 
+Click the "Get Started" button and start writing and saving notes! 
 
 ## Mock-Up
 
