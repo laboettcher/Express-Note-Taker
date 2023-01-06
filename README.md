@@ -78,6 +78,8 @@ You can access the app here: [NoteTaker](https://note-taker-express-challenge.he
 
 * [GeeksforGeeks2](https://www.geeksforgeeks.org/express-js-express-static-function/)
 
+* [HerokuDevCenter](https://devcenter.heroku.com/articles/git)
+
 * [Npm](https://www.npmjs.com/package/qs)
 
 * [NpmDocs](https://docs.npmjs.com/cli/v7/commands/npm-start)
