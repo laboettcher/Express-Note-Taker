@@ -67,6 +67,7 @@ Click the "Get Started" button and start writing and saving notes!
 
 ## Deployed Application
 
+You can access the app here: [NoteTaker](https://note-taker-express-challenge.herokuapp.com/)
 
 ## License 
  MIT 
